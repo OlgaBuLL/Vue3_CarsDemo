@@ -19,16 +19,17 @@
 
 ## A brief overview of this project:    
 
+#### <a href='https://olga-bull-cars-demo.netlify.app/'>VIEW DEMO</a>
+
 <br>
 
-<a href='https://olga-bull-cars-demo.netlify.app/'>Visit website</a>
-
->Click on the image below to visit this website!
+>OR Click on the image below to visit this website!
 
 
 <br>
 
 [![cars](https://github.com/user-attachments/assets/4220e02c-8b30-4e9e-bdc0-7ec8381a5d75)](https://olga-bull-cars-demo.netlify.app/)
+
 
 <br>
 
